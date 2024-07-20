@@ -1,5 +1,5 @@
 # Hotel-Domain-Analysis
-## [LinkedIn Post](https://www.linkedin.com/posts/mounikapalli_hotel-domain-analysis-using-python-activity-7187054816534183936-1vWm?utm_source=share&utm_medium=member_desktop)
+
 ## Overview
 This project focuses on performing comprehensive data analysis for Atliq Grands, a hotel that has faced tough competition and a decline in revenue. By leveraging data and strategic insights, this analysis aims to empower Atliq Grands with actionable strategies for customer retention and revenue growth.
 
@@ -29,7 +29,7 @@ This project showcases the application of data analysis techniques to solve real
 Feel free to explore the repository and utilize the notebooks and scripts to understand the data analysis process and findings.
 
 ## Contact
-For any queries or further collaboration, please reach out via Mail (monimounika2468@gmail.com)
+For any queries or further collaboration, please reach out via Mail (dumpalavishnuteja1@gmail.com)
 
 This project showcases the application of data analysis techniques to solve real-world business problems in the hotel industry. By mastering essential Python libraries and methodologies, valuable insights have been derived to support Atliq Grands in enhancing customer retention and boosting revenue.
 
